@@ -4,3 +4,9 @@ C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.csproj.AssemblyReferen
 C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.csproj.CoreCompileInputs.cache
 C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.dll
 C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.pdb
+C:\Users\podmi\OneDrive\Рабочий стол\Lw1\Solvers\bin\Debug\Solvers.dll
+C:\Users\podmi\OneDrive\Рабочий стол\Lw1\Solvers\bin\Debug\Solvers.pdb
+C:\Users\podmi\OneDrive\Рабочий стол\Lw1\Solvers\obj\Debug\Solvers.csproj.AssemblyReference.cache
+C:\Users\podmi\OneDrive\Рабочий стол\Lw1\Solvers\obj\Debug\Solvers.csproj.CoreCompileInputs.cache
+C:\Users\podmi\OneDrive\Рабочий стол\Lw1\Solvers\obj\Debug\Solvers.dll
+C:\Users\podmi\OneDrive\Рабочий стол\Lw1\Solvers\obj\Debug\Solvers.pdb
