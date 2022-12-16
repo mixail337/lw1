@@ -1,0 +1,6 @@
+C:\Users\stalk\source\repos\LW1\Solvers\bin\Debug\Solvers.dll
+C:\Users\stalk\source\repos\LW1\Solvers\bin\Debug\Solvers.pdb
+C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.csproj.AssemblyReference.cache
+C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.csproj.CoreCompileInputs.cache
+C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.dll
+C:\Users\stalk\source\repos\LW1\Solvers\obj\Debug\Solvers.pdb

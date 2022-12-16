@@ -1,0 +1,11 @@
+C:\Users\stalk\source\repos\LW1\LW1\bin\Debug\LW1.exe.config
+C:\Users\stalk\source\repos\LW1\LW1\bin\Debug\LW1.exe
+C:\Users\stalk\source\repos\LW1\LW1\bin\Debug\LW1.pdb
+C:\Users\stalk\source\repos\LW1\LW1\bin\Debug\Solvers.dll
+C:\Users\stalk\source\repos\LW1\LW1\bin\Debug\Solvers.pdb
+C:\Users\stalk\source\repos\LW1\LW1\obj\Debug\LW1.csproj.AssemblyReference.cache
+C:\Users\stalk\source\repos\LW1\LW1\obj\Debug\LW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stalk\source\repos\LW1\LW1\obj\Debug\LW1.csproj.CoreCompileInputs.cache
+C:\Users\stalk\source\repos\LW1\LW1\obj\Debug\LW1.csproj.CopyComplete
+C:\Users\stalk\source\repos\LW1\LW1\obj\Debug\LW1.exe
+C:\Users\stalk\source\repos\LW1\LW1\obj\Debug\LW1.pdb
